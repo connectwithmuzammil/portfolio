@@ -38,7 +38,7 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "M Muzammil Khan",
-  tagline: "a passionate front-end developer",
+  tagline: "a Passionate Front-End Developer",
   img: profile,
   about: `As a front-end developer with over a year's experience, I specialize in React JS, Next JS. I've excelled in fast-paced team environments, delivering high-quality software solutions and captivating user interfaces. My diverse experience includes working on ReactJS, and Next JS Technologies. Passionate about staying updated with front-end trends, I strive for continuous improvement and innovation in my work.`,
 };
